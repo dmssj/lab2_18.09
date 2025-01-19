@@ -1,4 +1,4 @@
-#define _USE_MATH_DEFINES //линейный цикл
+#define _USE_MATH_DEFINES //линейный цикл лаба
 #include <iostream> 
 using namespace std;
 #include <cmath> 
